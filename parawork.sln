@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parawork", "parawork\parawork.csproj", "{FECA633F-BC53-417A-A6E1-182A5441A7EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{19B52534-1788-4E66-9255-B4EAE1FCC278}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{B33DF6AC-5AC8-4374-A0F0-52365BFE67D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECA633F-BC53-417A-A6E1-182A5441A7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECA633F-BC53-417A-A6E1-182A5441A7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECA633F-BC53-417A-A6E1-182A5441A7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECA633F-BC53-417A-A6E1-182A5441A7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33DF6AC-5AC8-4374-A0F0-52365BFE67D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33DF6AC-5AC8-4374-A0F0-52365BFE67D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33DF6AC-5AC8-4374-A0F0-52365BFE67D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33DF6AC-5AC8-4374-A0F0-52365BFE67D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1ACC51-F1DE-4E6E-B51C-664B168C0105}
+	EndGlobalSection
+EndGlobal
